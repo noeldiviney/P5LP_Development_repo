@@ -11,11 +11,11 @@ https://code.google.com/archive/p/git-repo/[here].
 * The *PSoC_5LP Component Library* + 
  repositories catered for are as follows +
 
- https://github.com/noeldiviney/ND_PSoC_Comp_lib +  
+ https://github.com/noeldiviney/ND_PSoC_Comp_lib 
 
- https://github.com/noeldiviney/ND_P5LP_Sch_Macro_lib +  
+ https://github.com/noeldiviney/ND_P5LP_Sch_Macro_lib
 
- https://github.com/noeldiviney/Odissey1_lib +  
+ https://github.com/noeldiviney/Odissey1_lib
 
  https://github.com/noeldiviney/TDust_UDB_lib  
 
