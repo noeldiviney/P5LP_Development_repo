@@ -55,14 +55,14 @@ PATH
 # Create the PSoC_5LP directory
 
 ....
-$: mkdir -p ~/projects/P5LP/ComponentsDev
-$: cd projects/P5LP/ComponentsDev
+$: mkdir -p ~/projects/P5LP
+$: cd projects/P5LP
 ....
 
 # Initialise the repositories for PSoC_5LP Components
 
 ....
-$: repo init -u https://github.com/noeldiviney/P5LP_Comp_repo
+$: repo init -u https://github.com/noeldiviney/P5LP_Development_repo
 ....
 
 # Download the PSoC_5LP Component Libraries
