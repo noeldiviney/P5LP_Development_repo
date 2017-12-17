@@ -14,6 +14,7 @@
   <remote  fetch="git://github.com/noeldiviney"              name="P5LP_USB_Audio_CS4272"/>
   <remote  fetch="git://github.com/noeldiviney"              name="P5LP_059_Debug"/>
   <remote  fetch="git://github.com/noeldiviney"              name="P5LP_USB_Audio_Async"/>
+  <remote  fetch="git://github.com/noeldiviney"              name="P5LP_USB_Audio"/>
   <!--
   -->
   <project remote="Odissey1_lib"           revision="master"   name="Odissey1_lib"           path="ComponentsDev/Odissey1_lib"/>
@@ -27,6 +28,7 @@
   <project remote="P5LP_USB_Audio_CS4272"  revision="master"   name="P5LP_USB_Audio_CS4272"  path="ComponentsTest/P5LP_USB_Audio_CS4272"/>
   <project remote="P5LP_059_Debug"         revision="master"   name="P5LP_059_Debug"         path="ComponentsTest/P5LP_059_Debug"/>
   <project remote="P5LP_USB_Audio_Async"   revision="master"   name="P5LP_USB_Audio_Async"   path="ComponentsTest/P5LP_USB_Audio_Async"/>
+  <project remote="P5LP_USB_Audio"         revision="master"   name="P5LP_USB_Audio"         path="ComponentsTest/P5LP_USB_Audio"/>
   <!--
   -->
 
