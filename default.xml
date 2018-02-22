@@ -24,7 +24,7 @@
   <project remote="ND_P5LP_Component_lib"          revision="master"   name="ND_P5LP_Component_lib"  path="ComponentsDev/ND_P5LP_Component_lib"/>
   <project remote="ND_P5LP_Sch_Macro_lib"          revision="master"   name="ND_P5LP_Sch_MACRO_lib"  path="ComponentsDev/ND_P5LP_Sch_Macro_lib"/>
   <project remote="ND_P5LP_Arduino_lib"            revision="master"   name="ND_P5LP_Arduino_lib"    path="ComponentsDev/ND_P5LP_Arduino_lib"/>
-  <project remote="ND_P5LP_Arduino Sch_Macro_lib"  revision="master"   name="ND_P5LP_Sch_MACRO_lib"  path="ComponentsDev/ND_P5LP_Arduino_Sch_Macro_lib"/>
+  <project remote="ND_P5LP_Arduino_Sch_Macro_lib"  revision="master"   name="ND_P5LP_Sch_MACRO_lib"  path="ComponentsDev/ND_P5LP_Arduino_Sch_Macro_lib"/>
 
   <project remote="P5LP_TinyPrintf"                revision="master"   name="P5LP_TinyPrintf"        path="ComponentsTest/P5LP_TinyPrintf"/>
   <project remote="P5LP_CharLCD_I2C"               revision="master"   name="P5LP_CharLCD_I2C"       path="ComponentsTest/P5LP_CharLCD_I2C"/>
