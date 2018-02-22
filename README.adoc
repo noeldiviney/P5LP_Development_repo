@@ -15,6 +15,8 @@ https://code.google.com/archive/p/git-repo/[here].
 
  https://github.com/noeldiviney/ND_P5LP_Sch_Macro_lib
 
+ https://github.com/noeldiviney/ND_P5LP_Arduino_lib
+
  https://github.com/noeldiviney/Odissey1_lib
 
  https://github.com/noeldiviney/TDust_UDB_lib  
