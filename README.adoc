@@ -61,6 +61,13 @@ $: mkdir -p ~/projects/P5LP
 $: cd projects/P5LP
 ....
 
+# Configure git with your real name and email address.
+
+....
+$: git config --global user.name "Your Name"
+$: git config --global user.email "you@example.com"
+....
+
 # Initialise the repositories for PSoC_5LP Components
 
 ....
