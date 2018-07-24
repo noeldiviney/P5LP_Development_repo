@@ -89,6 +89,7 @@ image::images/ComponentLibs.gif[Component Libs]
 # Configure PSoC Creator to add the CDC Component libraries
 
 * Launch PSoC Creator
+* Do not Load or Create project yet so that CDC Library is installed for all Projects
 * select "Tools->Options"
 * Setup the "Options"  dialog as per the following image
 
