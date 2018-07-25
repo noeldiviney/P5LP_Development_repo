@@ -7,9 +7,10 @@
   <remote  fetch="git://github.com/noeldiviney"              name="TDust_UDB_lib"/>
   <remote  fetch="git://github.com/noeldiviney"              name="ND_P5LP_Component_lib"/>
   <remote  fetch="git://github.com/noeldiviney"              name="ND_P5LP_Sch_Macro_lib"/>
+  <!--
   <remote  fetch="git://github.com/noeldiviney"              name="ND_P5LP_Arduino_lib"/>
   <remote  fetch="git://github.com/noeldiviney"              name="ND_P5LP_Arduino_Sch_Macro_lib"/>
-  
+  -->  
   <remote  fetch="git://github.com/noeldiviney"              name="P5LP_TinyPrintf"/>
   <remote  fetch="git://github.com/noeldiviney"              name="P5LP_CharLCD_I2C"/>
   <remote  fetch="git://github.com/noeldiviney"              name="P5LP_AudioClkGen"/>
@@ -23,9 +24,10 @@
   <project remote="TDust_UDB_lib"                  revision="master"   name="TDust_UDB_lib"          path="ComponentsDev/TDust_UDB_lib"/>
   <project remote="ND_P5LP_Component_lib"          revision="master"   name="ND_P5LP_Component_lib"  path="ComponentsDev/ND_P5LP_Component_lib"/>
   <project remote="ND_P5LP_Sch_Macro_lib"          revision="master"   name="ND_P5LP_Sch_MACRO_lib"  path="ComponentsDev/ND_P5LP_Sch_Macro_lib"/>
+  <!--
   <project remote="ND_P5LP_Arduino_lib"            revision="master"   name="ND_P5LP_Arduino_lib"    path="ComponentsDev/ND_P5LP_Arduino_lib"/>
   <project remote="ND_P5LP_Arduino_Sch_Macro_lib"  revision="master"   name="ND_P5LP_Sch_MACRO_lib"  path="ComponentsDev/ND_P5LP_Arduino_Sch_Macro_lib"/>
-
+   -->
   <project remote="P5LP_TinyPrintf"                revision="master"   name="P5LP_TinyPrintf"        path="ComponentsTest/P5LP_TinyPrintf"/>
   <project remote="P5LP_CharLCD_I2C"               revision="master"   name="P5LP_CharLCD_I2C"       path="ComponentsTest/P5LP_CharLCD_I2C"/>
   <project remote="P5LP_AudioClkGen"               revision="master"   name="P5LP_AudioClkGen"       path="ComponentsTest/P5LP_AudioClkGen"/>
